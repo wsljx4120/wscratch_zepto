@@ -1,0 +1,12 @@
+{
+  "name": "wscratch_zepto",
+  "description": "wscratch for zepto",
+  "main": "wScratch.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wsljx4120/wscratch_zepto.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
